@@ -4,6 +4,7 @@
 - 🟨 **Java**
 - 🐍 **Python**
 - 🌐 **JavaScript**
+- 🟪 **PHP**
 - 🟦 **HTML5 & CSS3**
 
 ### 🤖 Intelligent Systems & Machine Learning
@@ -14,7 +15,9 @@
 
 ### ⚙️ Frameworks & Libraries
 - 🕸️ **Django** / **Flask** – backend frameworks for web apps  
-- 📦 **Node.js**, **Express**, **Vue.js** – modern JavaScript stacks
+- 📦 **Node.js**, **Express**, **Vue.js** – modern JavaScript stacks  
+- 🎨 **Bootstrap** – responsive front-end design framework  
+- 🔧 **Gradle** – build automation tool primarily for Java projects
 
 ### 🛠 Tools & IDEs
 - 💡 **Visual Studio Code**
@@ -30,7 +33,7 @@
 - 📦 **SQLite**
 
 ### 🌐 Front‑End & UI / UX
-- 🎨 Responsive interfaces with **HTML**, **CSS**, **JavaScript**
+- 🎨 Responsive interfaces with **HTML**, **CSS**, **JavaScript**, **Bootstrap** 
 - 🖼 Dynamic front‑end with **Vue.js**
 
 ---
